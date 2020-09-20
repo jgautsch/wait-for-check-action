@@ -1,0 +1,19 @@
+{
+  "name": "wait-for-check-action",
+  "version": "0.0.1",
+  "description": "GitHub Action for waiting on checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgautsch/wait-for-check-action.git"
+  },
+  "author": "Jon Gautsch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgautsch/wait-for-check-action/issues"
+  },
+  "homepage": "https://github.com/jgautsch/wait-for-check-action#readme"
+}
